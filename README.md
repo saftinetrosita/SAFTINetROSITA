@@ -1,4 +1,4 @@
 SAFTINetROSITA
 ==============
 
-The SAFTINet ROSITA ETL Server is responsible for accepting data from multiple sources to create linked output data that is compliant with the SAFTINet grid node.
+This project has moved to sub-projects under the https://github.com/organizations/SAFTINet organization.
